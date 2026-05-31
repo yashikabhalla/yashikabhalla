@@ -4,7 +4,7 @@ I'm Yashika, a final year computer engineering student at Thapar Institute of En
 
 I build full stack web apps, explore AI, solve DSA problems, and spend way too long debugging things I definitely didn't break.
  
-I learn as I build and never run out of things to explore — that's just how I work.
+I learn as I build and never run out of things to explore.
  
 Currently preparing for SDE placements at product companies.
  
